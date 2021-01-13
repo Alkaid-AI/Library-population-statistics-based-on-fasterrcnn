@@ -3,4 +3,4 @@ As an important public place in Colleges and universities, how to use its resour
 
 The test result(The picture is from the library of UESTC):
 
-![image](https://github.com/Alkaid-AI/Library-population-statistics-based-on-fasterrcnn/tree/master/images/1.jpg)
+![image](https://github.com/Alkaid-AI/Library-population-statistics-based-on-fasterrcnn/blob/master/images/1.jpg)
