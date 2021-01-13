@@ -5,7 +5,7 @@ The test result(The image is taken at the library of UESTC):
 
 ![image](https://github.com/Alkaid-AI/Library-population-statistics-based-on-fasterrcnn/blob/master/images/1.jpg)
 
-From the test result we can see that we have a high accuracy to detect the people in library and I also add a statistics function to count the total population at the bottom right corner of the image: "Total: 4"
+From the test result we can see that we have a high accuracy to detect the people in library and I also add a statistics function to count the total population at the bottom right corner of the image: "Total: 4".
 
 And also I add a function to allow us to count population from a camera which can extract samples of the surveillance video in the real situlation of library. 
 
